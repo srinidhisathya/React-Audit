@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.parent{
+    float: right;
+}
+
+.progress{
+    background-color:#373d8d;	
+    border: 1px solid #373d8d;	
+    color: #ffffff;	
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;	
+    padding-left: 10px;	
+    padding-right: 10px;	
+    display: inline-block;	
+    border-radius: 15px;	
+}
